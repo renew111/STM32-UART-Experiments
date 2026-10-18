@@ -1,0 +1,25 @@
+# Keil MDK 编译产物
+Objects/
+Listings/
+*.uvguix
+*.uvoptx
+*.dep
+*.crf
+*.d
+*.o
+*.axf
+*.hex
+*.map
+*.htm
+*.lnp
+*.lst
+*.build_log.htm
+JLinkLog.txt
+*.scvd
+
+# STM32CubeMX
+.mxproject
+
+# 系统
+Thumbs.db
+.DS_Store
